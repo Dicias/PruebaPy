@@ -6,4 +6,4 @@
 -Editor de textos como [Visual Estudio Code](https://code.visualstudio.com)
 
 ----------------------------------------------------------------
-![Python Logo](img\python_logo.png)
+![Python Logo](C:\Users\Dicias\Desktop\Notes\Python\img\python_logo.png)
